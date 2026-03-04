@@ -1,0 +1,13 @@
+[tool.poetry]
+name = "curso-python"
+version = "0.1.0"
+description = "Un curso de Python con ejercicios sobre módulos y el uso de __main__."
+authors = ["EdinsonNM <tu_email@example.com>"]
+license = "MIT"
+
+[tool.poetry.dependencies]
+python = "^3.8"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"

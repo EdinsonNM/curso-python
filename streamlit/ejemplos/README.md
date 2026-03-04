@@ -37,5 +37,6 @@ streamlit run ejemplos/00_indice.py
 | 8 | `08_tuplas.py` | Tuplas, inmutabilidad, desempaquetado |
 | 9 | `09_complejo_lista_diccionarios.py` | Listas de diccionarios, funciones, for, if, filtros |
 | 10 | `10_complejo_calculadora_estadisticas.py` | Variables, listas, tuplas, diccionarios, funciones, for, if/elif/else |
+| 11 | `11_comprehensions.py` | List comprehension, set comprehension, dict comprehension, anidadas, generadores |
 
-Orden recomendado: 01 → 02 → … → 10.
+Orden recomendado: 01 → 02 → … → 11.

@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Índice de ejemplos — Menú para elegir y ejecutar cada ejemplo (1 a 10)
+Índice de ejemplos — Menú para elegir y ejecutar cada ejemplo (1 a 11)
 """
 
 import streamlit as st
@@ -21,6 +21,7 @@ EJEMPLOS = [
     ("08_tuplas.py", "📦 Tuplas", "Inmutabilidad, desempaquetado"),
     ("09_complejo_lista_diccionarios.py", "🔗 Lista de diccionarios", "Filtros con funciones y for"),
     ("10_complejo_calculadora_estadisticas.py", "📊 Estadísticas", "Todo combinado: listas, dict, funciones, if/elif"),
+    ("11_comprehensions.py", "🧠 Comprehensions", "List, set, dict comprehensions y generadores"),
 ]
 
 st.subheader("Elige un ejemplo")
